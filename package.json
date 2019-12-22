@@ -1,0 +1,12 @@
+{
+  "name": "invidious-switch",
+  "version": "1.0.0",
+  "description": "Firefox Plugin - Adds a key combo to view current Youtube video on Invidio.us",
+  "main": "invidious.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "Sadsitha Lokuge",
+  "license": "ISC",
+  "dependencies": {}
+}
